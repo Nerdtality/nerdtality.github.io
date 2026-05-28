@@ -1,0 +1,13 @@
+{
+  "name": "chancedority.com",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal portfolio site for Chance Dority. Static HTML + React-via-CDN, JSX pre-compiled at build time with esbuild.",
+  "scripts": {
+    "build": "node build.mjs",
+    "watch": "node build.mjs --watch"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.0"
+  }
+}
