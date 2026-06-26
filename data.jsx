@@ -16,7 +16,7 @@ const PROFILE = {
     { k: "Now",  v: "Senior infra at an MSP" },
     { k: "Past", v: "Manufacturing IT, hospital IT" },
     { k: "Years", v: "8+ in IT & infrastructure", count: 8 },
-    { k: "Lives", v: "Denver, CO" },
+    { k: "Lives", v: "Columbia, MO" },
     { k: "Specialty", v: "Gov't agencies · 911 call centers · Public safety systems", wide: true, highlight: true },
     { k: "Also", v: "Eagle Scout · Tech School Curriculum Advisor", wide: true },
     { k: "Off-clock", v: "Storm chasing · Caving · Amateur radio · Home automation", wide: true },
