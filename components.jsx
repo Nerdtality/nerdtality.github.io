@@ -91,7 +91,7 @@ function ClockChip() {
     return () => clearInterval(id);
   }, []);
   const time = now.toLocaleTimeString("en-US", {
-    timeZone: "America/Denver",
+    timeZone: "America/Chicago",
     hour: "2-digit",
     minute: "2-digit",
     hour12: false,
